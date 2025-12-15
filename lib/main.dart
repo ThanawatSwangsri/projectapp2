@@ -31,7 +31,7 @@ class RecipeApp extends StatelessWidget {
         // tested with just a hot reload.
         colorScheme: .fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const MyHomePage(title: 'Recipe Calculator'),
+      home: const MyHomePage(title: 'Uniqlo'),
     );
   }
 }

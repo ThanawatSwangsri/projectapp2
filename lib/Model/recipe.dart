@@ -5,10 +5,10 @@ class Recipe {
   Recipe( this.imageUrl,  this.imgLabel);
 
   static List<Recipe> samples = [
-     Recipe('assets/images/a.webp','Thai-style fishcakes with sweet and sour cucumber pickle'),
-     Recipe('assets/images/b.webp','Sweet Thai basil smash cocktail'),
-     Recipe('assets/images/e.webp','Thai-style cauli larb salad'),
-     Recipe('assets/images/d.webp','Larb muang (Thai chopped pork salad)'),
-     Recipe('assets/images/c.webp','Thai pumpkin curry (gaeng fak thong)'),
+     Recipe('assets/images/poloshirt.webp','Polo Shirt Blue'),
+     Recipe('assets/images/poloshirt2.webp','Cool Uniqlo Rugger Polo Shirt'),
+     Recipe('assets/images/T-shirt.webp','White T-Shirt'),
+     Recipe('assets/images/sweater.webp','Knit Crew Neck Long-Sleeve Sweater'),
+     Recipe('assets/images/hoodie.webp','Black Hoodie'),
   ];
 }
